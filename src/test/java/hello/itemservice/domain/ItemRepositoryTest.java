@@ -41,7 +41,7 @@ class ItemRepositoryTest {
         //트랜잭션 롤백
 //        transactionManager.rollback(status);
     }
-    
+
     @Test
     void save() {
         //given
